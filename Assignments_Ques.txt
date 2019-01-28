@@ -1,0 +1,6 @@
+Assignment1:
+Write an assembly code to display '5F4' in Seven Segment Display(SSD).
+
+Assignment2:
+Write an assembly code to display the following LED
+G+R1(ON) - R1(OFF) - Y(ON)

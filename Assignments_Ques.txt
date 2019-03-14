@@ -16,7 +16,11 @@ Assignment5:
 Write an assembly code to display the following in dot matrix
 C0(Orange) - R2(Green) - C4(Red)
 
+Assignment6:
+Write an assembly code which shows a shape in dot matrix and first letter of color in seven segment display.
 
+Assignment7:
+Write an assembly code which shows a shape in dot matrix and colors of dots in LED.
 
 
 

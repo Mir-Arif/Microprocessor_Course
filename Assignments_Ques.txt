@@ -22,5 +22,6 @@ Write an assembly code which shows a shape in dot matrix and first letter of col
 Assignment7:
 Write an assembly code which shows a shape in dot matrix and colors of dots in LED.
 
-
+Assignment8:
+Write an assembly code which shows any three lettes, show the letters colors in LED and first letter of color in seven segment Display.
 
